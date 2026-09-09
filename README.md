@@ -6,10 +6,8 @@ This project demonstrates hyperparameter tuning of a Random Forest classificatio
 ```text
 hyperparameter-tuning/
 ├── README.md
-├── doc/
-│   └── Hyperparameter_Tuning_Report.md
-└── notebook/
-    └── hyperparameter_tuning.ipynb
+|── Hyperparameter_Tuning_Report.md
+|── hyperparameter_tuning.ipynb
 ```
 
 ## Work Completed
